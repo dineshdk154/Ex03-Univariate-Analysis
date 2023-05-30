@@ -93,7 +93,7 @@ Histogram plot
 ![image](https://user-images.githubusercontent.com/104413084/231065430-37b8450e-8cd4-4f90-afc4-1aad155402b9.png)
 
 
-#Result
+# Result
 
 Thus we have read the given data and performed the univariate analysis with different types of
 plots.
